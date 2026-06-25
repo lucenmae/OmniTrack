@@ -1,0 +1,6 @@
+{
+  "name": "OmniTrack",
+  "description": "A highly customizable and user-friendly all-in-one tracker for logging habits, activities, walks, chores, and personal events.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
